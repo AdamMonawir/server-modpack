@@ -5,4 +5,5 @@ replit.nix
 README.md
 options.txt
 usernamecache.json
-usercache.jsom
+usercache.json
+./crash-reports
