@@ -7,3 +7,9 @@ options.txt
 usernamecache.json
 usercache.json
 ./crash-reports
+minecraftinstance.json
+patchouli_data.json
+./fancymenu_data
+./fancymenu_instance_data
+./logs
+./local
